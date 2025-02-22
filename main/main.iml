@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/list/operacoes-basicas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/list/operacoes-basicas/exercicio-carrinho-compras" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/list/operacoes-basicas/lista-tarefas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/list/pesquisa" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/map-interface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/set-interface" isTestSource="false" />
     </content>
