@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/list/pesquisa" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/map-interface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/set-interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/list/ordenacao" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
