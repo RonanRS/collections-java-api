@@ -1,3 +1,5 @@
+package main.list.ordenacao;
+
 import java.util.Comparator;
 
 public class Pessoa implements Comparable<Pessoa> {
